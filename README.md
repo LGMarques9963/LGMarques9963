@@ -71,8 +71,8 @@ I’m always eager to collaborate on innovative projects or discuss emerging tec
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lgmarques9963&theme=vue-dark" />
+  <img height=200 align="center" src="https://github-readme-stats-three-nu-17.vercel.app/api?username=lgmarques9963&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgmarques9963&layout=compact&card_width=320&langs_count=8&hide=scss&theme=vue-dark" />
+  <img height=200 align="center" src="https://github-readme-stats-three-nu-17.vercel.app/api/top-langs?username=lgmarques9963&layout=compact&card_width=320&langs_count=8&hide=scss&theme=vue-dark" />
 </a>
