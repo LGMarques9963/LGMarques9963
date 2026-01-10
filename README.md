@@ -1,78 +1,103 @@
 # Lorran Marques
-✨ Creating bugs since 2014
+⚙️ Linux, Distributed Systems & Security Engineering | 🚀 R&D C++ Specialist | 🐧 Linux Enthusiast
+
+> *“A software engineer who understands how systems break, not just a hacker who knows how to run security tools.”*
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/lgmarques9963)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lgmarques)
 
-# Hello, World! 👋
+# Hello, World 👋
 
-## About Me 🚀
+## About Me 👨‍💻
 
-Hey there! I'm Lorran Marques, a versatile software engineer with a strong background in **C++**, **Python**, and **Java**, blending expertise in **software engineering** and **research-driven development**. Whether building robust systems for manufacturing or automating processes, I thrive on solving complex problems and pushing technological boundaries.
+I am an **R&D Software Engineer with a focus on Security Engineering** bridging the gap between high-performance software and secure infrastructure. With a background in **Computational Geometry** and **Edge Computing**, I specialize in building systems that are not only fast but resilient.
+
+My professional background spans multiple complementary domains:
+* **Product Security & Reliability:** Working as a Tier 3 Engineer for distributed edge platforms, mitigating critical incidents, tuning WAF policies, and automating threat detection.
+* **High-Performance Engineering:** Worked on C++ engines for the CAD/CAM industry, focusing on memory safety, graph theory, and geometric algorithms.
+
+I spend most of my time analyzing **logs, network traces, and code paths** to understand why **real systems fail in production**, and turning that into more stable and secure platforms.
 
 ## My Specialization 💡
 
-- **Cross-Disciplinary Development**: Leading projects that integrate **Computer Science** and **Mechanical Engineering**, such as developing **CAD-based manufacturing analysis software** (IGIE).  
-- **System Optimization and Security**: Crafting secure, efficient APIs and leveraging advanced algorithms for real-world solutions.  
-- **Automation and Innovation**: Driving automation initiatives to streamline processes and improve operational efficiency.
-
-With a background in **Astrophysics** and now pursuing a **Computer Science degree**, I bring a unique perspective to problem-solving, combining analytical thinking with technical expertise.
-
----
-
-## **My Current Focus 🔥**
-- Developing **IGIE**: A cutting-edge software for analyzing CAD parts, optimizing machining features, and reducing production time.
-- Exploring the intersection of **graph theory**, **geometric algorithms**, and **machine learning** to solve industry challenges.
-- Expanding my knowledge in **cybersecurity**, particularly in API security and system vulnerabilities.
-
----
-## My Approach 🛠️
-
-I'm a firm believer in the power of clean, efficient code. I strive to produce solutions that not only work flawlessly but are also easy to understand and maintain. Collaboration and continuous learning form the bedrock of my development philosophy.
-
-## **Key Projects 🛠️**
-
-### **IGIE**  
-- **Overview**: Developing a CAD part analysis software that uses **Attributed Adjacency Graphs (AAG)** to identify features and optimize machining workflows.  
-- **Key Contributions**:
-  - Integrated **Python-based neural networks** for operation classification.
-  - Built secure APIs using **GoLang** for seamless integration.
-  - Conducted cross-disciplinary research combining **mechanical engineering** and **software development**.
-
-### **Pare e Observe**  
-- **Overview**: A **VBA** and **Access-based safety management system** designed to optimize occupational safety procedures. 
-- **Key Achievements**:
-  - Received commendation for its lasting impact on safety workflows.
-  - Demonstrated self-initiative by learning VBA to deliver the project.
-
-### **Smart House**  
-- **Overview**: Built a mobile app using **Java** to control a smart home model with **Arduino-based automation**.  
-- **Key Features**:
-  - Integrated sensors to automate windows and lights based on environmental conditions (e.g., sunlight, rain).
-  - Recognized as an outstanding project by the course coordinator.
+| **Domain** | **Focus Areas** |
+| :--- | :--- |
+| **🛡️ Product Security** | WAF Engineering, Zero Trust Architecture, Threat Modeling, Incident Response (RCA). |
+| **🚀 High-Performance Dev** | Modern C++ (17/20), Graph Theory, Memory Safety, Geometric Algorithms. |
+| **🤖 Systems Automation** | Python SOAR Scripting, Linux Hardening, Bash, Edge Computing Logic (Lua/JS). |
 
 ---
 
-## Let's Connect! 🌐
+## What I Work With
 
-I’m always eager to collaborate on innovative projects or discuss emerging technologies. Feel free to reach out via [GitHub](https://github.com/lgmarques9963) or [LinkedIn](https://linkedin.com/in/lgmarques).
+- **Linux & Systems:** Ubuntu, process management, file systems, containers  
+- **Distributed platforms:** DNS, HTTP(S), edge computing, reverse proxies  
+- **Debugging:** logs, traces, GDB, network diagnostics  
+- **Security-aware engineering:** WAFs, TLS, API security, attack surface reduction  
+- **Programming:** C++, Python, Bash, REST APIs  
 
-## Fun Facts About Me 🎉
+---
 
-- ⚡ I prefer tabs over spaces
-- 🌍 Multilingual (Portuguese, English, Spanish), which helps me collaborate globally.  
-- 🌌 With a background in astrophysics, astronomy has always been a passion; I relish stargazing, finding solace in the cosmos' vast beauty.
-- ✈️ I'm an avid traveler, always seeking out new destinations and cultures to explore.
-- 🎾 Tennis is my sport of choice for a fun and competitive workout.
-- 🎓 Lifelong learning is important to me, and I'm constantly seeking out new skills and knowledge to broaden my horizons.
-- 🎶 Guitar and piano are my creative outlets when I’m not coding.
-- 🚴‍♂️ I'm an outdoor enthusiast and enjoy activities like hiking, biking, and camping.
+## Professional & Academic Focus
+
+- **Tier-3 Support & Reliability Engineering** Debugging real incidents in globally distributed edge platforms, dealing with DNS propagation, TLS handshakes, routing, WAF rules, and serverless traffic pipelines.
+
+- **R&D Engineering (C++)** Worked on production-grade CAD topology analysis engines, focused on performance, stability, and correctness under real workloads.
+  
+- **Security & Defensive Engineering** Studying and applying:
+  - API security & attack detection  
+  - Log-driven threat analysis  
+  - Edge-based protection models
+ 
+- **Academic & Certifications**
+  - 🎓 Preparing for **M.Sc. in Computer Science** (Focus: Post-Quantum Cryptography & Network Security).
+  - 🔐 Studying for **Certified Red Team Professional (CRTP)** to enhance offensive security skills.
+
+---
+
+## Featured Project — Project Orion
+
+**Project Orion** is my personal **Linux & security lab**, where I simulate production-like environments:
+
+- **Infrastructure:** Ubuntu Server hosting multiple containerized services.
+- **Access:** Nginx reverse proxies with TLS termination and Tailscale mesh VPN for zero-trust networking.
+- **Security:** Protected by commercial Edge DNS and WAF policies with custom traffic control.
+- **Automation:** Python pipelines consuming threat-intelligence APIs to dynamically update firewall blocklists.
+
+I use it to practice incident response, infrastructure hardening, observability, attack simulation and defense  
+
+---
+
+## How I Think
+
+I focus on:
+- **Understanding systems end-to-end**
+- **Finding the real root cause (RCA)**
+- **Making platforms more reliable, secure, and debuggable**
+
+Whether I’m inside C++ memory layouts or HTTP traffic flows, the goal is the same:  
+> **Make production systems predictable and safe.**
+
+---
+
+## Let’s Connect
+I’m always open to discussing **Linux Internals**, **Cybersecurity**, or **Geometric Algorithms**.
+
+- **Languages:** 🇧🇷 Portuguese (Native) | 🇺🇸 English (Fluent) | 🇪🇸 Spanish (Fluent) | 🇯🇵 Japanese (Basic)
+- **Fun Fact:** I have a background in **Astrophysics**, so I treat system logs like star charts—looking for patterns in the chaos. 🌌
+
+If you work with Linux platforms, distributed systems, or security engineering, feel free to reach out:
+
+🔗 [LinkedIn](https://linkedin.com/in/lgmarques)  
+💻 [GitHub](https://github.com/lgmarques9963)
+
+---
 
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-three-nu-17.vercel.app/api?username=lgmarques9963&theme=vue-dark&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats-three-nu-17.vercel.app/api?username=lgmarques9963&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-three-nu-17.vercel.app/api/top-langs?username=lgmarques9963&layout=compact&card_width=320&langs_count=8&hide=scss&theme=vue-dark" />
+  <img height=200 align="center" src="https://github-readme-stats-three-nu-17.vercel.app/api/top-langs?username=lgmarques9963&layout=compact&card_width=320&langs_count=6&hide=html,css,scss&theme=vue-dark&hide_border=true" />
 </a>
